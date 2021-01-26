@@ -1,0 +1,23 @@
+.title{
+    /* display: flex; */
+    text-align: center;
+    background-color: yellow;
+    /* justify-content: space-between; */
+}
+.title h1{
+    text-align: center;
+}
+.text{
+    text-align: center;
+    background-color:lime;
+}
+.item{
+    position: relative;
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    /* justify-content:space-evenly; */
+    background-color:#ffffff
+}
